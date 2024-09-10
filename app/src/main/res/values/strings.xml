@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_item_price">Item Price</string>
+    <string name="hint_item_url">Item URL</string>
+    <string name="button_add">Add Item</string>
+</resources>
+
